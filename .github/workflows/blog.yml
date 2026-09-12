@@ -3,17 +3,21 @@ name: Recent Blog
 on:
   schedule:
     - cron: "0 0 * * *"
-    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-readme-feed
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: "https://lukias-blog.cc.cd/rss.xml"
           file: "README.md"
-      - uses: sarisia/actions-commit@master
+      - name: Commit & Push
+        uses: sarisia/actions-commit@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
