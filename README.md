@@ -54,8 +54,11 @@
 <img align="right" width="88" src="./assets/images/astronaut.png" />
 
 <!-- feed start -->
-<!-- 此区域由 blog.yml GitHub Action 每日自动同步博客 RSS -->
-- Coming Soon - [博客建设中...]()
+- Aug 16 - [博客文章优化-测试](https://lukias-blog.cc.cd/blog/Test)
+- Jul 17 - [技术规划](https://lukias-blog.cc.cd/blog/plan-b)
+- Jul 13 - [桌面应用小记](https://lukias-blog.cc.cd/blog/desktop-note)
+- May 28 - [开发总结](https://lukias-blog.cc.cd/blog/dev-summary)
+- May 09 - [自动工具](https://lukias-blog.cc.cd/blog/auto-tool)
 <!-- feed end -->
 
 </td></tr>
