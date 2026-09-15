@@ -97,45 +97,49 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
-HTML                     1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TypeScript               3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
+HTML                     1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Markdown                 1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 6 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 19 mins       ██████████████████████░░░   89.88 % 
+Cursor                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 43 mins (94.66%)
+⏱ AI Coding Time: 7 hrs 46 mins (95.35%)
 
-✍️ 283 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 441 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,881,576 Input Tokens, 1,277,175 Output Tokens
+🔤 6,882,741 Input Tokens, 1,278,340 Output Tokens
 
-💵 $1032.48 Estimated AI Cost This Week
+💵 $1032.49 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 92 AI Prompts
+🧠 22 AI Sessions, 104 AI Prompts
 
-Codex-Vscode             436 lines           █████████████████████████   100.00 % 
+Codex-Vscode             436 lines           ██████████████████░░░░░░░   73.40 % 
+Grok                     158 lines           ███████░░░░░░░░░░░░░░░░░░   26.60 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,800 characters per prompt
+📚 Verbose Prompter — average 14,930 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 03:30:26 UTC
+ Last Updated on 15/09/2026 03:32:00 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
