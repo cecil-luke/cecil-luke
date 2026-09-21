@@ -68,7 +68,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -97,16 +97,16 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 19 mins       ██████████████████░░░░░░░   71.75 % 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+TypeScript               6 hrs 19 mins       ██████████████████░░░░░░░   71.85 % 
+Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Image (png)              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 34 mins       ████████████████░░░░░░░░░   63.29 % 
-IntelliJ IDEA            1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Agent                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Cursor                   5 hrs 34 mins       ████████████████░░░░░░░░░   63.38 % 
+IntelliJ IDEA            1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Agent                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 
 💻 Operating System: 
 Mac                      8 hrs 48 mins       █████████████████████████   100.00 % 
@@ -115,7 +115,7 @@ Mac                      8 hrs 48 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 47 mins (99.7%)
+⏱ AI Coding Time: 8 hrs 47 mins (99.84%)
 
 ✍️ 4,837 lines written by AI, 3 lines written by hand (99.94% AI-written)
 
@@ -136,7 +136,7 @@ Cursor                   2,090 lines         ██████████░�
 ```
 
 
- Last Updated on 20/09/2026 03:32:51 UTC
+ Last Updated on 21/09/2026 03:27:53 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
