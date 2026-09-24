@@ -54,11 +54,11 @@
 <img align="right" width="88" src="./assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 23 - [MD样式调整测试](https://lukias-blog.cc.cd/blog/md-style-test)
 - Aug 16 - [博客文章优化-测试](https://lukias-blog.cc.cd/blog/Test)
 - Jul 17 - [技术规划](https://lukias-blog.cc.cd/blog/plan-b)
 - Jul 13 - [桌面应用小记](https://lukias-blog.cc.cd/blog/desktop-note)
 - May 28 - [开发总结](https://lukias-blog.cc.cd/blog/dev-summary)
-- May 09 - [自动工具](https://lukias-blog.cc.cd/blog/auto-tool)
 <!-- feed end -->
 
 </td></tr>
