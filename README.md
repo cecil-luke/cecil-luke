@@ -97,46 +97,26 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       █████████████████░░░░░░░░   67.78 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Image (png)              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-TSConfig                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TypeScript               6 mins              █████████░░░░░░░░░░░░░░░░   36.98 % 
+GitIgnore file           6 mins              ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 40 mins       █████████████░░░░░░░░░░░░   52.55 % 
-IntelliJ IDEA            1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Agent                    1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+IntelliJ IDEA            18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 45 mins (93.78%)
-
-✍️ 1,968 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 62,373 Input Tokens, 62,373 Output Tokens
-
-💵 $0.50 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 60 AI Prompts
-
-Grok                     2,256 lines         ████████████████████████░   94.71 % 
-Cursor                   126 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,867 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/09/2026 03:40:18 UTC
+ Last Updated on 27/09/2026 03:49:34 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
